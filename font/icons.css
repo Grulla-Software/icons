@@ -1,14 +1,14 @@
 @font-face {
   font-display: block;
   font-family: "icons";
-  src: url('../font/icons.woff2?37913110') format('woff2'),
-  url('../font/icons.woff?37913110') format('woff');
+  src: url('./fonts/icons.woff2') format('woff2'),
+  url('./fonts/icons.woff') format('woff');
 }
 .i::before,
 [class^="i-"]:before, 
 [class*=" i-"]:before {
   display: inline-block;
-  font-family: bootstrap-icons !important;
+  font-family: icons !important;
   font-style: normal;
   font-weight: normal !important;
   font-variant: normal;
