@@ -75,7 +75,7 @@ import url("https://cdn.jsdelivr.net/npm/grulla-software-icons@1.0.3/font/icons.
 ```
 ## Thanks to ✌🤩
 
-[fontello.com](https://codesandbox.io/embed/icons-reactjs-vb665n?fontsize=14&hidenavigation=1&theme=dark)✂
+[fontello.com](https://fontello.com/)✂
 
 ## Authors ✒️
 
