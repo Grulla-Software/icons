@@ -1,22 +1,20 @@
 <p align="center">
-  <a href="https://v5.getbootstrap.com/">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  <a href="ttps://grullasoftware.vercel.app/">
+    <img src="https://github.com/Grulla-Software/icons/blob/main/img/logo8.png" alt="Gulla Software logo" width="200" height="165">
   </a>
 </p>
 
-<h3 align="center">Bootstrap Icons</h3>
+<h3 align="center">Grulla Software Icons</h3>
 
 <p align="center">
   Official open source SVG icon library for Bootstrap with over 1,800 icons.
   <br>
-  <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
+  <a href="https://grulla-software.github.io/page-icons/"><strong>Explore Icons »</strong></a>
   <br>
   <br>
-  <a href="https://getbootstrap.com/">Bootstrap</a>
+  <a href="https://grullasoftware.vercel.app/">Grulla Software official page</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://github.com/Grulla-Software">Grulla Software on GitHub</a>
   <br>
 </p>
 
