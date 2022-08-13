@@ -60,11 +60,11 @@ For those using CDN you can install Icons via file HTML5:
 </html>
 ```
 ## Usage via CSS via CDN: 🚀
-## IN CSS:
+## In CSS:
 ```css
 import url("https://cdn.jsdelivr.net/npm/grulla-software-icons@1.0.3/font/icons.css");
 ```
-## IN HMTL:
+## In HTML:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -73,8 +73,6 @@ import url("https://cdn.jsdelivr.net/npm/grulla-software-icons@1.0.3/font/icons.
   </body>
 </html>
 ```
-
-
 
 ## Authors ✒️
 
